@@ -21,6 +21,17 @@ public class TodoTable extends BaseModel {
     @Column
     public String NumeroaMostrar;
 
+    @Column
+    public String NumeroaMostrar2;
+
+    @Column
+    public String Operador;
+
+    @Column
+    public String Resultado;
+
+
+
 
 
 }

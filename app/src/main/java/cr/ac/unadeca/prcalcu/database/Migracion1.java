@@ -11,7 +11,7 @@ import cr.ac.unadeca.prcalcu.database.models.TodoTable;
  * Created by Freddy on 4/8/2018.
  */
 
-@Migration(version = 1, database = ToDoDatabase.class)
+@Migration(version = 2, database = ToDoDatabase.class)
 public class Migracion1 extends AlterTableMigration<TodoTable> {
 
     public Migracion1(Class<TodoTable> table) {

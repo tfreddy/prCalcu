@@ -5,7 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="cr.ac.unadeca.prcalcu.activities.MainActivity"
-    tools:showIn="@layout/activity_main">
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
+
+
 
     <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
