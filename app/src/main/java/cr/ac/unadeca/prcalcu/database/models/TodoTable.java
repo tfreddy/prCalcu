@@ -30,9 +30,7 @@ public class TodoTable extends BaseModel {
     @Column
     public String Resultado;
 
-
-
-
-
 }
+
+//FT
 

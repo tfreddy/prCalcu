@@ -27,3 +27,5 @@ public class TodoViewHolder extends RecyclerView.ViewHolder {
         borrar=itemView.findViewById(R.id.delete);
     }
 }
+
+//FT

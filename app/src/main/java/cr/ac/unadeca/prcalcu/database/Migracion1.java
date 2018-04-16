@@ -24,3 +24,5 @@ public class Migracion1 extends AlterTableMigration<TodoTable> {
         addColumn(SQLiteType.INTEGER,"estado");
     }
 }
+
+//FT
